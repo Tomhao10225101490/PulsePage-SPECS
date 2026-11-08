@@ -1,0 +1,8 @@
+PulsePage-LensStudio.zip
+42 allowlisted project files; 5.97 MB.
+SHA-256: 7da7dac87860b209f2d96b185180ab25b53863daf984b6e28315be00df0806cb
+
+Independently extracted and opened in Lens Studio 5.23.2 on 2026-11-08.
+Cache and Support regenerated; all four active source modules matched imported compiler copies; compiler succeeded; initial PulsePage score and 80-BPM controls rendered in Interactive Preview. The sample room environment differs from the Plane environment used in the demo; choose Plane and Start location for the same view.
+
+Excluded: Cache, Support, Workspaces, local plugin preferences, .mcp.json, .codex/.cursor/.claude/.vscode local connection files, debugger PEM key, project locks, private browser/account screenshots and raw diagnostic logs.

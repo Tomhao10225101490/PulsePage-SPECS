@@ -1,0 +1,216 @@
+{
+  "archive": "PulsePage-LensStudio.zip",
+  "archive_sha256": "7da7dac87860b209f2d96b185180ab25b53863daf984b6e28315be00df0806cb",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 414,
+      "sha256": "28626fb98c0a1f2a3d10a0fd0313f86e2e660594b9bf3f48145b423eedc58b2e"
+    },
+    {
+      "path": "Assets/PulsePageBuildResults.md",
+      "bytes": 1223,
+      "sha256": "50b8c93bafe78d9bb0aee9f9e8f1b1ea1fc31b8b97eb85fef890b576005913dd"
+    },
+    {
+      "path": "Assets/PulsePageBuildResults.md.meta",
+      "bytes": 494,
+      "sha256": "955a437c5c7f76817f881d681f3cc29cb8a75f7942a01be7374d597894a2afa1"
+    },
+    {
+      "path": "Assets/Render/Device Camera Texture.deviceCameraTexture",
+      "bytes": 80,
+      "sha256": "19719f617e73e571f75a31159081bd60cee37a05acb2c4a3189a72b1a4ff3166"
+    },
+    {
+      "path": "Assets/Render/Device Camera Texture.deviceCameraTexture.meta",
+      "bytes": 494,
+      "sha256": "1fca77753c5c9b587234e4047dd9cdb797d1238503a89db1e5d496e6cf70a0e7"
+    },
+    {
+      "path": "Assets/Render/Echopark.hdr",
+      "bytes": 1495252,
+      "sha256": "7f718a37e096b94af7cd15a6c6142e7ec0386887b756b9cdced63f1fc71b38d4"
+    },
+    {
+      "path": "Assets/Render/Echopark.hdr.meta",
+      "bytes": 632,
+      "sha256": "7b78806d273d4da630684ea46014276f27fcd0deed72989d890f8838c2e3b42c"
+    },
+    {
+      "path": "Assets/Render/Render Target.renderTarget",
+      "bytes": 612,
+      "sha256": "5002e4bac0a205a6358aa8662c8d0d72a077bfb6d8b600deb86958f002aad363"
+    },
+    {
+      "path": "Assets/Render/Render Target.renderTarget.meta",
+      "bytes": 492,
+      "sha256": "ca4985ece8b0f133ce82a20683bda1b2a06485c79fc40a9e6a4c69724e5ec8c0"
+    },
+    {
+      "path": "Assets/Scene.scene",
+      "bytes": 93862,
+      "sha256": "4e77a7a13f4d0f0b1f891c765a4a8f8787d3380b1706a43b940a7b2e23f7a3b7"
+    },
+    {
+      "path": "Assets/Scene.scene.meta",
+      "bytes": 478,
+      "sha256": "9b68c8f9352811334c5d16ac6b801533596dc5d0d5d1c0ac5ab92fa928ebde0c"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageApp.ts",
+      "bytes": 1036,
+      "sha256": "186350000bc691719f4ece4733269e0acdbbe0de7d91fd8c014de7688bb6bc18"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageApp.ts.meta",
+      "bytes": 1459,
+      "sha256": "b4c46d11d3fc315d08550a1560d717b8cce1b0ab1f84036776966b36a93850e7"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageAssetManifest.ts",
+      "bytes": 585,
+      "sha256": "0ce0647c394b99e362532fe64cc5247c0d084b68fdb960f04d768f982ffadb81"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageAssetManifest.ts.meta",
+      "bytes": 1219,
+      "sha256": "98487411164788b1ede0488c6421528ee37d905d1c274e0cfc5ec605d6f005ba"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageControlsView.ts",
+      "bytes": 5096,
+      "sha256": "61beacbb2cc71e12e2e13eee15e9e09cfa5c498367f88de1443ccd5c48641502"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageControlsView.ts.meta",
+      "bytes": 1219,
+      "sha256": "6a8de15352b5b759593c41cd48d6869793bcd158627fd4ccbaa8d70a3c85051f"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageNotation.ts",
+      "bytes": 4571,
+      "sha256": "e9379532d0000253fc1248f4a3544f687c6446aa03554047cb68d4baca6de79c"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageNotation.ts.meta",
+      "bytes": 1601,
+      "sha256": "5acdad4a5d57fb4d63a0ff32117d036d31c93e8b148b775e26c07dcb322955de"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageTransport.ts",
+      "bytes": 2046,
+      "sha256": "8d774ba082172c1d0cee1066a7beb0437ba7ca50f160fb2a2486fb5bd6675ccf"
+    },
+    {
+      "path": "Assets/Scripts/PulsePageTransport.ts.meta",
+      "bytes": 1219,
+      "sha256": "6b14e28987206195d3df54b11b302647f3dcb696e8786f07d406b9c6072f50bb"
+    },
+    {
+      "path": "Assets/SimpleVertexBaseColor.lspkg/vertexBaseColorMaterial.mat",
+      "bytes": 2083,
+      "sha256": "1160a7357fa5ae5d355326d2ab0051ac60ff71c28a0a3aebd619dbce3cd71c93"
+    },
+    {
+      "path": "Assets/SimpleVertexBaseColor.lspkg/vertexBaseColorMaterial.mat.meta",
+      "bytes": 484,
+      "sha256": "6b8b30be7239ad040ca3ca6c37f1a83778a575b641cfbf19c4546ffeebf6a2c9"
+    },
+    {
+      "path": "Assets/SimpleVertexBaseColor.lspkg/vertexBaseColorShader.graphShader",
+      "bytes": 2644,
+      "sha256": "2721c3bd92b87506047c5ac229f8a4e3d8517a9ce523a0728d33298093e74753"
+    },
+    {
+      "path": "Assets/SimpleVertexBaseColor.lspkg/vertexBaseColorShader.graphShader.meta",
+      "bytes": 494,
+      "sha256": "4914c2f2443781d0f5e908725cc377032cfa57d976203f1e8637a66f31c566eb"
+    },
+    {
+      "path": "Assets/Tests/PulsePageState.test.mjs",
+      "bytes": 2626,
+      "sha256": "18da745a072ecce5d55c3b9f61942a2d13a5411d5760dbc116a545152d5b2906"
+    },
+    {
+      "path": "Assets/Tests/PulsePageState.test.mjs.meta",
+      "bytes": 484,
+      "sha256": "855deeca59c2e562f5d117cc56bc307d812a748e129698ce9f50eb8fa7fa5d56"
+    },
+    {
+      "path": "Packages/Icons.lspkg",
+      "bytes": 1901832,
+      "sha256": "b5afdef165caba7468902304f61952a0b59e989ac2b2659ebe95de47a1ae223f"
+    },
+    {
+      "path": "Packages/Icons.lspkg.meta",
+      "bytes": 621,
+      "sha256": "407bd0b934f02737ffdf2638ddefe0eda5b5e2bb120fc4af8b64c80ab515faae"
+    },
+    {
+      "path": "Packages/Motion.lspkg",
+      "bytes": 42836,
+      "sha256": "c4d619203d9277c55b8d979f02a75351bad2895ef37242639769cf0927bc494b"
+    },
+    {
+      "path": "Packages/Motion.lspkg.meta",
+      "bytes": 444,
+      "sha256": "68e3ebb38ca6cfcae9bb67fcebb3d10848a87681fd1710d159952dcf6daf2d2c"
+    },
+    {
+      "path": "Packages/SpectaclesInteractionKit.lspkg",
+      "bytes": 1928577,
+      "sha256": "d40740060fd662cb807566b976ef961c353476267817d3e3efaf10970ab318d7"
+    },
+    {
+      "path": "Packages/SpectaclesInteractionKit.lspkg.meta",
+      "bytes": 444,
+      "sha256": "e982ce76672f320b48a204d3c51d83252e86d5f53ba90b2f2ad048889388aa19"
+    },
+    {
+      "path": "Packages/SpectaclesUIKit.lspkg",
+      "bytes": 1248264,
+      "sha256": "641bbfd3a555b9cd9daa13c6a40b26fa5af7fbef59ad9563af9474eb4017fc7f"
+    },
+    {
+      "path": "Packages/SpectaclesUIKit.lspkg.meta",
+      "bytes": 444,
+      "sha256": "25be08a429038026bd19dec29b8007eddedf43cf7af3e71fbf6e8e9af50dc34f"
+    },
+    {
+      "path": "PianoLens.esproj",
+      "bytes": 1124,
+      "sha256": "941f1ee0341b37e2b68b32f473b265cee8ff1aaba9868867ae5d75489153bda5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3206,
+      "sha256": "af0ac4fe16f8bd729f4091e21a8b97294e1cd328af3570923b8b60791f2c58c0"
+    },
+    {
+      "path": "devpost/AI_AND_PRIOR_WORK.md",
+      "bytes": 2138,
+      "sha256": "fd9c05cbf41b6f4293db1f123988a7e5882e48bb482d79e0047c94afc59ee024"
+    },
+    {
+      "path": "devpost/VERIFICATION.md",
+      "bytes": 3173,
+      "sha256": "284824ea02013202553ad08c90acefbdad3a427df7acfba3f56de4df850ce315"
+    },
+    {
+      "path": "devpost/design-brief.md",
+      "bytes": 7336,
+      "sha256": "a26f9839230c49a9be23953b096e20b25bd291c42948efdcdf7332b92dbadeb7"
+    },
+    {
+      "path": "jsconfig.json",
+      "bytes": 346,
+      "sha256": "31d032e7e73ac5c8ca0245d836eefa987c3bbf8f48c777798b4e926c04ad4d3d"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 613,
+      "sha256": "6255524d355a2f7b11a24f20d1cd770954f5a9d0b8e979cd5eb5594e8e17f5b5"
+    }
+  ]
+}
